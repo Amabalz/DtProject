@@ -1,0 +1,2 @@
+E:\UTCN\YEAR III\II\Project\project_ii.client\obj\Debug\project_ii.client.esproj.CoreCompileInputs.cache
+E:\UTCN\YEAR III\II\II_Project\project_ii.client\obj\Debug\project_ii.client.esproj.CoreCompileInputs.cache
